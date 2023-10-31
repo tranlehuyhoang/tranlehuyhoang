@@ -1,4 +1,4 @@
-# Tran Le Huy Hoang 
+# Tran Le Huy Hoang <img align="left" alt="Vite" width="10px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374167/vite.svg" />
  
 **`Web Developer `**
 
