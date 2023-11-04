@@ -11,7 +11,7 @@
 
  ### ❷  Vegetable Shop Project 
   
-[Link Demo](http://clonesnew.rf.gd/clonesnew/client/home.php) [Video Demo](https://gemoo.com/tools/upload-video/share/579363558939308032?codeId=vJRqq2xJkLLob&card=579363555101519872&origin=videolinkgenerator) [Source code](https://github.com/tranlehuyhoang/Vegetable_Shop_Project) Technology : PHP, Laravel, MySql .
+[Link Demo](http://fastkartshop.rf.gd/public/) [Video Demo](https://gemoo.com/tools/upload-video/share/579363558939308032?codeId=vJRqq2xJkLLob&card=579363555101519872&origin=videolinkgenerator) [Source code](https://github.com/tranlehuyhoang/Vegetable_Shop_Project) Technology : PHP, Laravel, MySql .
 
  ---
 
