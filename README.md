@@ -1,4 +1,4 @@
-# PS26819 <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374167/vite.svg" />
+# <h1 color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Security+Engineer;I'm+a+Full+Stack+Developer;I'm+a+Blogger"></h1> <img align="left" alt="Vite" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374167/vite.svg" />
 
 **`Web Developer `**
 
