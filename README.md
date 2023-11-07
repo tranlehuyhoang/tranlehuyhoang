@@ -26,6 +26,15 @@
 [Link Demo](https://ps26819.vercel.app/) [Video Demo](https://gemootest.s3.us-east-2.amazonaws.com/s/res/514885813225336832/edb15e885a9719d68608143c112c0a36.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARLZICB6QQHKRCV7K%2F20231031%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T020805Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=cf0c868baca96ff5573d0f9748c83c6431986a64bab7d5a00085f857b2a53dce) [Source code](https://github.com/tranlehuyhoang/Stack_Management_Project) Technologys : Reactjs, Nodejs, Mongodb .
 
 ---
+
+![](https://github-readme-stats.vercel.app/api?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tranlehuyhoang&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=tranlehuyhoang&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-c99e353f761d318322c853c03ebcf21b" />
 
  
