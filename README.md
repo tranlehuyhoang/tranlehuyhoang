@@ -28,6 +28,8 @@
 ---
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
+<img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=tranlehuyhoang&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" />
+ 
 ---
 
 
