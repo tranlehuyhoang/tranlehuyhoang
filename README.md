@@ -1,7 +1,4 @@
-
- <div
-    style="background-image: url(https://qph.cf2.quoracdn.net/main-qimg-c99e353f761d318322c853c03ebcf21b); height: 100%; opacity: 0.5;">
-  
+ 
 ## <h1 color="#36BCF7FF"><img align="left" alt="Vite" width="45px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374167/vite.svg" /> <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=50&duration=2000&pause=300&color=F70000&background=FF232300&vCenter=true&random=false&width=435&lines=I'M+PS26819;I'M+WEB+DEVELOPER;I'M+TRAN+LE+HUY+HOANG;13%2F5%2F2004" alt="Typing SVG" />
 </h1> 
 
@@ -37,5 +34,5 @@
 
 <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-c99e353f761d318322c853c03ebcf21b" />
 
- </div>
+ 
 
