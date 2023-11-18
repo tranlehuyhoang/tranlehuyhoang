@@ -38,8 +38,8 @@
  
 ---
 
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=2508roblox&custom_title=Al%20Siam%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-c99e353f761d318322c853c03ebcf21b" />
 
  
 
