@@ -15,7 +15,7 @@
 [Link Demo](http://fastkartshop.rf.gd/public/) [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/fastkart.mp4) [Source code](https://github.com/tranlehuyhoang/Vegetable_Shop_Project) Technologies : PHP, Laravel, MySql .
 
  ---
-### ❸ Tasks Management Project 
+### ❸ Authentication Project 
 
 [Link Demo](https://ps26819.vercel.app/) [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/taskmanager.mp4) [Source code](https://github.com/tranlehuyhoang/Stack_Management_Project) Technologies : Reactjs, Nodejs, Mongodb .
  
