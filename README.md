@@ -29,7 +29,7 @@
 
  ### ❺ Chat Aplicacion Project 
 
-[Link Demo]() [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/socketio.mp4) [Source code](https://github.com/tranlehuyhoang/Stack_Management_Project) Technologies : Reactjs, Nodejs, Mongodb .
+[Link Demo]() [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/socketio.mp4) [Source code](https://github.com/tranlehuyhoang/Chat_Aplicacion_Project) Technologies : Reactjs, Nodejs, Mongodb .
 
 ---
 
