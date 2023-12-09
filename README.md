@@ -8,40 +8,39 @@
   
 [Link Demo](http://clonesnew.rf.gd/clonesnew/client/home.php) [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/clonesnew.mp4) [Source code](https://github.com/tranlehuyhoang/Accounts_Shop_Project) Technologies : PHP, MySql .
 
- ---
+
 
  ### ❷  Vegetable Shop Project 
   
 [Link Demo](http://fastkartshop.rf.gd/public/) [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/fastkart.mp4) [Source code](https://github.com/tranlehuyhoang/Vegetable_Shop_Project) Technologies : PHP, Laravel, MySql .
 
- ---
+
 ### ❸ Authentication Project 
 
 [Link Demo](https://ps26819.vercel.app/) [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/taskmanager.mp4) [Source code](https://github.com/tranlehuyhoang/Authentication-Project) Technologies : Reactjs, Nodejs, Mongodb .
  
----
+
 
 ### ❹ Tasks Management Project 
 
 [Link Demo](https://ps26819.vercel.app/) [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/taskmanager.mp4) [Source code](https://github.com/tranlehuyhoang/Stack_Management_Project) Technologies : Reactjs, Nodejs, Mongodb .
  
----
 
  ### ❺ Chat Aplicacion Project 
 
 [Link Demo]() [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/socketio.mp4) [Source code](https://github.com/tranlehuyhoang/Chat_Aplicacion_Project) Technologies : Reactjs, Nodejs, Mongodb .
 
----
+
 
  ### ❻ Electro Ecommerce Project (Member)
 
 [Link Demo](http://electrohome.rf.gd/) [Video Demo](https://gemootest.s3.us-east-2.amazonaws.com/s/res/514885813225336832/edb15e885a9719d68608143c112c0a36.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARLZICB6QQHKRCV7K%2F20231031%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T020805Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=cf0c868baca96ff5573d0f9748c83c6431986a64bab7d5a00085f857b2a53dce) [Source code](https://github.com/2508roblox/electro_laravel) Technologies : PHP, Laravel, MySql, Nodejs .
 
----
+
 
 <img  src="https://github-readme-stats.vercel.app/api?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
  
----
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tranlehuyhoang&theme=github-compact)](https://github.com/tranlehuyhoang/github-readme-activity-graph)
 
