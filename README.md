@@ -17,7 +17,7 @@
 
 ### ❸ Authentication Project 
 
-[Link Demo](https://ps26819.vercel.app/) [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/taskmanager.mp4) [Source code](https://github.com/tranlehuyhoang/Authentication-Project) Technologies : Reactjs, Nodejs, Mongodb .
+[Link Demo](https://auth-ps26819.vercel.app/) [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/taskmanager.mp4) [Source code](https://github.com/tranlehuyhoang/Authentication-Project) Technologies : Reactjs, Nodejs, Mongodb .
  
 
 
