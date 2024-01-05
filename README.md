@@ -40,6 +40,9 @@
 
 [Link Demo](https://ps26819-blog.vercel.app/) [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/blogs.mp4) [Source code](https://github.com/tranlehuyhoang/structure_nextjs) Technologies : Nextjs, Mongodb .
 
+ ### ❽ Ecommerce Project
+
+[Link Demo](https://ps26819-blog.vercel.app/) [Video Demo](https://thunderous-mochi-d32897.netlify.app/video/blogs.mp4) [Source code](https://github.com/tranlehuyhoang/structure_nextjs) Technologies : Nextjs, MySql .
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
