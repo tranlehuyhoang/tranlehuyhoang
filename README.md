@@ -31,6 +31,10 @@
 
 [Link Demo](https://github.com/tranlehuyhoang/electro.io.vn)
 
+![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/1cb88725-9902-4402-95b2-6d843fbb9c4e)
+
+[Link Demo](https://github.com/tranlehuyhoang/MOVIE-php-mvc)
+
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7a0bd3f5-a97d-4606-bd58-9ef206f4a905)
 
 
