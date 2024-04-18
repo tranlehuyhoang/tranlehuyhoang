@@ -17,30 +17,33 @@
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tranlehuyhoang&theme=github-compact)](https://github.com/tranlehuyhoang/github-readme-activity-graph)
 
-[Link Demo](https://github.com/tranlehuyhoang/laravel-1)
+[Link Demo](https://github.com/tranlehuyhoang/laravel-1) (Bán hàng Laravel)
 
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/df97a3bf-1bea-424c-a72d-93d53551f231)
 
-[Link Demo](https://github.com/tranlehuyhoang/mooncart-php)
+[Link Demo](https://github.com/tranlehuyhoang/mooncart-php) (Bán hàng php mysql)
 
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/3b656702-601a-4971-bdcf-8d904b7a67a0)
 
-[Link Demo](https://github.com/tranlehuyhoang/php-thu-n-suruchi)
+[Link Demo](https://github.com/tranlehuyhoang/php-thu-n-suruchi) (Bán hàng php mysql)
 
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/cf49577a-2272-45b1-9e32-98011b49b773)
 
-[Link Demo](https://github.com/tranlehuyhoang/electro.io.vn)
+[Link Demo](https://github.com/tranlehuyhoang/electro.io.vn) (Bán hàng Laravel)
 
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/1cb88725-9902-4402-95b2-6d843fbb9c4e)
 
-[Link Demo](https://github.com/tranlehuyhoang/MOVIE-php-mvc)
+[Link Demo](https://github.com/tranlehuyhoang/MOVIE-php-mvc) (Xem phim php)
 
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7a0bd3f5-a97d-4606-bd58-9ef206f4a905)
 
-[Link Demo](https://github.com/tranlehuyhoang/Laravel-zaika)
+[Link Demo](https://github.com/tranlehuyhoang/Laravel-zaika) (Bán hàng Laravel)
 
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/9eba5103-2522-4d22-82b8-f7ae18f5f8ff)
+ 
+[Link Demo](https://github.com/tranlehuyhoang/quanlykho) (Quản lý kho php)
 
+![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/17e75a0c-79b1-4555-a12e-556a6bef040d)
 
  
 
