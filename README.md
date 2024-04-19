@@ -48,5 +48,5 @@
 [Link Demo](https://github.com/tranlehuyhoang/quanlyxe) (Quản lý xe php mvc)
  
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/5310bc6d-d9c0-4bec-90fb-90f2acf34ae7)
-
+<img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
