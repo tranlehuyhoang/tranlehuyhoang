@@ -34,20 +34,20 @@
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/cf49577a-2272-45b1-9e32-98011b49b773" />
 
 
- ### ❻  Ecommerce Project (php mysql)
+ ### ❻  Ecommerce Project (PHP)
 [Link Demo](https://github.com/tranlehuyhoang/electro.io.vn) [Video Demo](https://github.com/tranlehuyhoang/electro.io.vn) [Source code](https://github.com/tranlehuyhoang/electro.io.vn) Technologies : PHP, MySql .
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/1cb88725-9902-4402-95b2-6d843fbb9c4e" />
 
 
- ### ❻  Movie Project (php mysql)
+ ### ❻  Movie Project (PHP)
 [Link Demo](https://github.com/tranlehuyhoang/MOVIE-php-mvc) [Video Demo](https://github.com/tranlehuyhoang/MOVIE-php-mvc) [Source code](https://github.com/tranlehuyhoang/MOVIE-php-mvc) Technologies : PHP, MySql .
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7a0bd3f5-a97d-4606-bd58-9ef206f4a905" />
 
 
  ### ❻  Ecommerce Project (Laravel)
-[Link Demo](https://github.com/tranlehuyhoang/Laravel-zaika) [Video Demo](https://github.com/tranlehuyhoang/Laravel-zaika) [Source code](https://github.com/tranlehuyhoang/Laravel-zaika) Technologies : PHP, MySql .
+[Link Demo](https://github.com/tranlehuyhoang/Laravel-zaika) [Video Demo](https://github.com/tranlehuyhoang/Laravel-zaika) [Source code](https://github.com/tranlehuyhoang/Laravel-zaika) Technologies : Laravel , MySql .
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/9eba5103-2522-4d22-82b8-f7ae18f5f8ff" />
 
@@ -57,7 +57,7 @@
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/17e75a0c-79b1-4555-a12e-556a6bef040d" />
 
- ### ❻  Cars management Project (Laravel)
+ ### ❻  Cars management Project (PHP)
 [Link Demo](https://github.com/tranlehuyhoang/quanlyxe) [Video Demo](https://github.com/tranlehuyhoang/quanlyxe) [Source code](https://github.com/tranlehuyhoang/quanlyxe) Technologies : PHP, MySql .
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/5310bc6d-d9c0-4bec-90fb-90f2acf34ae7" />
