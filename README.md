@@ -17,6 +17,12 @@
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tranlehuyhoang&theme=github-compact)](https://github.com/tranlehuyhoang/github-readme-activity-graph)
 
+ ### ❻ Electro Ecommerce Project (Member)
+
+[Link Demo](https://github.com/tranlehuyhoang/laravel-1) [Video Demo](https://github.com/tranlehuyhoang/laravel-1) [Source code](https://github.com/tranlehuyhoang/laravel-1) Technologies : PHP, Laravel, MySql, Nodejs .
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/df97a3bf-1bea-424c-a72d-93d53551f231" />
+
+
 [Link Demo](https://github.com/tranlehuyhoang/laravel-1) (Bán hàng Laravel)
 
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/df97a3bf-1bea-424c-a72d-93d53551f231)
@@ -48,5 +54,4 @@
 [Link Demo](https://github.com/tranlehuyhoang/quanlyxe) (Quản lý xe php mvc)
  
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/5310bc6d-d9c0-4bec-90fb-90f2acf34ae7)
-<img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
