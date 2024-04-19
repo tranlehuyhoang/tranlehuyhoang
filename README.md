@@ -17,43 +17,50 @@
 
  ### ❻  Ecommerce Project (Larvel)
 
-[Link Demo](https://github.com/tranlehuyhoang/laravel-1) [Video Demo](https://github.com/tranlehuyhoang/laravel-1) [Source code](https://github.com/tranlehuyhoang/laravel-1) Technologies : PHP, Laravel, MySql, Nodejs .
+[Link Demo](https://github.com/tranlehuyhoang/laravel-1) [Video Demo](https://github.com/tranlehuyhoang/laravel-1) [Source code](https://github.com/tranlehuyhoang/laravel-1) Technologies :Laravel, MySql .
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/df97a3bf-1bea-424c-a72d-93d53551f231" />
 
 
  ### ❻  Ecommerce Project (php mysql)
-[Link Demo](https://github.com/tranlehuyhoang/mooncart-php) [Video Demo](https://github.com/tranlehuyhoang/mooncart-php) [Source code](https://github.com/tranlehuyhoang/mooncart-ph) Technologies : PHP, Laravel, MySql, Nodejs .
+[Link Demo](https://github.com/tranlehuyhoang/mooncart-php) [Video Demo](https://github.com/tranlehuyhoang/mooncart-php) [Source code](https://github.com/tranlehuyhoang/mooncart-ph) Technologies : PHP, MySql .
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/3b656702-601a-4971-bdcf-8d904b7a67a0" />
 
 
- 
-[Link Demo](https://github.com/tranlehuyhoang/mooncart-php) (Bán hàng php mysql)
+ ### ❻  Ecommerce Project (php mysql)
+[Link Demo](https://github.com/tranlehuyhoang/php-thu-n-suruchi) [Video Demo](https://github.com/tranlehuyhoang/php-thu-n-suruchi) [Source code](https://github.com/tranlehuyhoang/php-thu-n-suruchi) Technologies : PHP, MySql .
 
-![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/3b656702-601a-4971-bdcf-8d904b7a67a0)
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/cf49577a-2272-45b1-9e32-98011b49b773" />
 
-[Link Demo](https://github.com/tranlehuyhoang/php-thu-n-suruchi) (Bán hàng php mysql)
 
-![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/cf49577a-2272-45b1-9e32-98011b49b773)
+ ### ❻  Ecommerce Project (php mysql)
+[Link Demo](https://github.com/tranlehuyhoang/electro.io.vn) [Video Demo](https://github.com/tranlehuyhoang/electro.io.vn) [Source code](https://github.com/tranlehuyhoang/electro.io.vn) Technologies : PHP, MySql .
 
-[Link Demo](https://github.com/tranlehuyhoang/electro.io.vn) (Bán hàng Laravel)
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/1cb88725-9902-4402-95b2-6d843fbb9c4e" />
 
-![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/1cb88725-9902-4402-95b2-6d843fbb9c4e)
 
-[Link Demo](https://github.com/tranlehuyhoang/MOVIE-php-mvc) (Xem phim php)
+ ### ❻  Movie Project (php mysql)
+[Link Demo](https://github.com/tranlehuyhoang/MOVIE-php-mvc) [Video Demo](https://github.com/tranlehuyhoang/MOVIE-php-mvc) [Source code](https://github.com/tranlehuyhoang/MOVIE-php-mvc) Technologies : PHP, MySql .
 
-![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7a0bd3f5-a97d-4606-bd58-9ef206f4a905)
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7a0bd3f5-a97d-4606-bd58-9ef206f4a905" />
 
-[Link Demo](https://github.com/tranlehuyhoang/Laravel-zaika) (Bán hàng Laravel)
 
-![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/9eba5103-2522-4d22-82b8-f7ae18f5f8ff)
- 
-[Link Demo](https://github.com/tranlehuyhoang/quanlykho) (Quản lý kho php)
+ ### ❻  Ecommerce Project (Laravel)
+[Link Demo](https://github.com/tranlehuyhoang/Laravel-zaika) [Video Demo](https://github.com/tranlehuyhoang/Laravel-zaika) [Source code](https://github.com/tranlehuyhoang/Laravel-zaika) Technologies : PHP, MySql .
 
-![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/17e75a0c-79b1-4555-a12e-556a6bef040d)
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/9eba5103-2522-4d22-82b8-f7ae18f5f8ff" />
 
-[Link Demo](https://github.com/tranlehuyhoang/quanlyxe) (Quản lý xe php mvc)
- 
-![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/5310bc6d-d9c0-4bec-90fb-90f2acf34ae7)
+
+ ### ❻  Inventory management Project (PHP)
+[Link Demo](https://github.com/tranlehuyhoang/quanlykho) [Video Demo](https://github.com/tranlehuyhoang/quanlykho) [Source code](https://github.com/tranlehuyhoang/quanlykho) Technologies : PHP, MySql .
+
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/17e75a0c-79b1-4555-a12e-556a6bef040d" />
+
+ ### ❻  Cars management Project (Laravel)
+[Link Demo](https://github.com/tranlehuyhoang/quanlyxe) [Video Demo](https://github.com/tranlehuyhoang/quanlyxe) [Source code](https://github.com/tranlehuyhoang/quanlyxe) Technologies : PHP, MySql .
+
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/5310bc6d-d9c0-4bec-90fb-90f2acf34ae7" />
+
+  
 
