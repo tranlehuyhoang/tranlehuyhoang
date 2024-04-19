@@ -6,11 +6,7 @@
 
 
 
- ### ❻ Electro Ecommerce Project (Member)
-
-[Link Demo](http://electrohome.rf.gd/) [Video Demo](https://gemootest.s3.us-east-2.amazonaws.com/s/res/514885813225336832/edb15e885a9719d68608143c112c0a36.mp4?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARLZICB6QQHKRCV7K%2F20231031%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T020805Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Signature=cf0c868baca96ff5573d0f9748c83c6431986a64bab7d5a00085f857b2a53dce) [Source code](https://github.com/2508roblox/electro_laravel) Technologies : PHP, Laravel, MySql, Nodejs .
-
-
+ 
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
@@ -19,17 +15,20 @@
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tranlehuyhoang&theme=github-compact)](https://github.com/tranlehuyhoang/github-readme-activity-graph)
 
- ### ❻ Electro Ecommerce Project (Member)
+ ### ❻  Ecommerce Project (Larvel)
 
 [Link Demo](https://github.com/tranlehuyhoang/laravel-1) [Video Demo](https://github.com/tranlehuyhoang/laravel-1) [Source code](https://github.com/tranlehuyhoang/laravel-1) Technologies : PHP, Laravel, MySql, Nodejs .
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/df97a3bf-1bea-424c-a72d-93d53551f231" />
 
 
-[Link Demo](https://github.com/tranlehuyhoang/laravel-1) (Bán hàng Laravel)
+ ### ❻  Ecommerce Project (php mysql)
+[Link Demo](https://github.com/tranlehuyhoang/mooncart-php) [Video Demo](https://github.com/tranlehuyhoang/mooncart-php) [Source code](https://github.com/tranlehuyhoang/mooncart-ph) Technologies : PHP, Laravel, MySql, Nodejs .
 
-![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/df97a3bf-1bea-424c-a72d-93d53551f231)
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/3b656702-601a-4971-bdcf-8d904b7a67a0" />
 
+
+ 
 [Link Demo](https://github.com/tranlehuyhoang/mooncart-php) (Bán hàng php mysql)
 
 ![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/3b656702-601a-4971-bdcf-8d904b7a67a0)
