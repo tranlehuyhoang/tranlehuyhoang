@@ -57,10 +57,16 @@
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/17e75a0c-79b1-4555-a12e-556a6bef040d" />
 
- ### ❻  Cars management Project (PHP)
-[Link Demo](https://github.com/tranlehuyhoang/quanlyxe) [Video Demo](https://github.com/tranlehuyhoang/quanlyxe) [Source code](https://github.com/tranlehuyhoang/quanlyxe) Technologies : PHP, MySql .
 
-<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/5310bc6d-d9c0-4bec-90fb-90f2acf34ae7" />
+ ### ❻  Inventory management Project (PHP)
+[Link Demo](https://github.com/tranlehuyhoang/quanlykho) [Video Demo](https://github.com/tranlehuyhoang/quanlykho) [Source code](https://github.com/tranlehuyhoang/quanlykho) Technologies : PHP, MySql .
 
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/17e75a0c-79b1-4555-a12e-556a6bef040d" />
+
+ ### ❻  Ecommerce Project (Nodejs)
+[Link Demo](https://github.com/tranlehuyhoang/ecom-nodejs-mysql) [Video Demo](https://github.com/tranlehuyhoang/ecom-nodejs-mysql) [Source code](https://github.com/tranlehuyhoang/ecom-nodejs-mysql) Technologies : Nodejs, MySql .
+
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7b116f26-87ce-4f77-acc1-d59a39e8e8a5" />
+ 
   
 
