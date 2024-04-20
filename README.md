@@ -53,12 +53,6 @@
 
 
  ### ❻  Inventory management Project (PHP)
-[Link Demo](https://github.com/tranlehuyhoang/quanlykho) [Video Demo](https://github.com/tranlehuyhoang/quanlykho) [Source code](https://github.com/tranlehuyhoang/quanlykho) Technologies : PHP, MySql .
-
-<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/17e75a0c-79b1-4555-a12e-556a6bef040d" />
-
-
- ### ❻  Inventory management Project (PHP)
 [Link Demo](https://github.com/tranlehuyhoang/quanlykho-main/) [Video Demo](https://github.com/tranlehuyhoang/quanlykho-main/) [Source code](https://github.com/tranlehuyhoang/quanlykho-main/) Technologies : PHP, MySql .
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/quanlykho-main/assets/111523395/a159cf68-ecda-4448-806b-4485a85f1eaf" />
