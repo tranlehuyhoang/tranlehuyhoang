@@ -73,5 +73,10 @@
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/61472753-8a39-450d-a664-b8ff329161c1" />
 
-  
+  ### 10  Ecommerce Project (Laravel)
+[Link Demo](https://github.com/tranlehuyhoang/kidolshop) [Video Demo](https://github.com/tranlehuyhoang/kidolshop) [Source code](https://github.com/tranlehuyhoang/kidolshop) Technologies : Laravel, MySql .
+
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/4fa70337-b307-4ff6-8d24-6b6954c66ac8" />
+
+
 
