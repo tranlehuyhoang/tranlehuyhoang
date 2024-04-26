@@ -34,8 +34,8 @@
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/cf49577a-2272-45b1-9e32-98011b49b773" />
 
 
- ### 4  Ecommerce Project (PHP)
-[Link Demo](https://github.com/tranlehuyhoang/electro.io.vn) [Video Demo](https://github.com/tranlehuyhoang/electro.io.vn) [Source code](https://github.com/tranlehuyhoang/electro.io.vn) Technologies : PHP, MySql .
+ ### 4  Ecommerce Project (Laravel)
+[Link Demo](https://github.com/tranlehuyhoang/electro.io.vn) [Video Demo](https://github.com/tranlehuyhoang/electro.io.vn) [Source code](https://github.com/tranlehuyhoang/electro.io.vn) Technologies : Laravel, MySql .
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/1cb88725-9902-4402-95b2-6d843fbb9c4e" />
 
@@ -78,5 +78,9 @@
 
 <img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/4fa70337-b307-4ff6-8d24-6b6954c66ac8" />
 
+  ### 11  Ecommerce Project (PHP)
+[Link Demo](https://github.com/tranlehuyhoang/shopthoitrang) [Video Demo](https://github.com/tranlehuyhoang/shopthoitrang) [Source code](https://github.com/tranlehuyhoang/shopthoitrang) Technologies : PHP, MySql .
+
+<img  height="195px" src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/d9d9ea19-1b2a-49e1-a475-4182f76d785a" />
 
 
