@@ -90,4 +90,10 @@
 
  ![image](https://github.com/tranlehuyhoang/petshop/assets/111523395/db9bb2d7-b6f1-4dc6-89f7-dde1bea4e64b)
 
+   ### 14  School Project (PHP)
+[Link Demo](https://github.com/tranlehuyhoang/quanlylophoc) [Video Demo](https://github.com/tranlehuyhoang/quanlylophoc) [Source code](https://github.com/tranlehuyhoang/quanlylophoc) Technologies : PHP, MySql .
+
+![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/64cb99f6-d2a5-4ff4-839a-f9b234790030)
+
+
 
