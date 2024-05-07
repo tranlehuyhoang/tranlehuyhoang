@@ -1,4 +1,4 @@
- 
+![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/e38e800f-1e94-4ce6-a504-a406be4e036a) 
 ## <h1 color="#36BCF7FF"><img align="left" alt="Vite" width="45px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374167/vite.svg" /> <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=50&duration=2000&pause=300&color=F70000&background=FF232300&vCenter=true&random=false&width=435&lines=I'M+PS26819;I'M+WEB+DEVELOPER;I'M+TRAN+LE+HUY+HOANG;13%2F5%2F2004" alt="Typing SVG" />
 </h1> 
 
@@ -56,7 +56,8 @@
  ### 7  Inventory management Project (PHP)
 [Link Demo](https://github.com/tranlehuyhoang/quanlykho-main/) [Video Demo](https://github.com/tranlehuyhoang/quanlykho-main/) [Source code](https://github.com/tranlehuyhoang/quanlykho-main/) Technologies : PHP, MySql .
 
-![image](https://github.com/tranlehuyhoang/quanlykho-main/assets/111523395/a159cf68-ecda-4448-806b-4485a85f1eaf")
+![image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/51be9d9a-fc76-404b-927a-d74674256366)
+
 
  ### 8  Ecommerce Project (Nodejs)
 [Link Demo](https://github.com/tranlehuyhoang/ecom-nodejs-mysql) [Video Demo](https://github.com/tranlehuyhoang/ecom-nodejs-mysql) [Source code](https://github.com/tranlehuyhoang/ecom-nodejs-mysql) Technologies : Nodejs, MySql .
