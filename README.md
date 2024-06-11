@@ -18,96 +18,113 @@
 ### 1. Ecommerce Project (Laravel)
 - [Source Code](https://github.com/tranlehuyhoang/laravel-1)
 - Technologies: Laravel, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/df97a3bf-1bea-424c-a72d-93d53551f231)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/df97a3bf-1bea-424c-a72d-93d53551f231" width="300">
 
 ### 2. Ecommerce Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/mooncart-ph)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/3b656702-601a-4971-bdcf-8d904b7a67a0)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/3b656702-601a-4971-bdcf-8d904b7a67a0" width="300">
 
 ### 3. Ecommerce Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/php-thu-n-suruchi)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/cf49577a-2272-45b1-9e32-98011b49b773)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/cf49577a-2272-45b1-9e32-98011b49b773" width="300">
 
 ### 4. Ecommerce Project (Laravel)
 - [Source Code](https://github.com/tranlehuyhoang/electro.io.vn)
 - Technologies: Laravel, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/1cb88725-9902-4402-95b2-6d843fbb9c4e)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/1cb88725-9902-4402-95b2-6d843fbb9c4e" width="300">
 
 ### 5. Movie Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/MOVIE-php-mvc)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7a0bd3f5-a97d-4606-bd58-9ef206f4a905)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7a0bd3f5-a97d-4606-bd58-9ef206f4a905" width="300">
 
 ### 6. Ecommerce Project (Laravel)
 - [Source Code](https://github.com/tranlehuyhoang/Laravel-zaika)
 - Technologies: Laravel, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/9eba5103-2522-4d22-82b8-f7ae18f5f8ff)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/9eba5103-2522-4d22-82b8-f7ae18f5f8ff" width="300">
 
 ### 7. Inventory Management Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/quanlykho-main/)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/51be9d9a-fc76-404b-927a-d74674256366)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/51be9d9a-fc76-404b-927a-d74674256366" width="300">
 
 ### 8. Ecommerce Project (Node.js)
 - [Source Code](https://github.com/tranlehuyhoang/ecom-nodejs-mysql)
 - Technologies: Node.js, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7b116f26-87ce-4f77-acc1-d59a39e8e8a5)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7b116f26-87ce-4f77-acc1-d59a39e8e8a5" width="300">
 
 ### 9. Quiz Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/qquizz)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/8af9b473-7654-43bc-ba72-708d5d7f6ec1)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/8af9b473-7654-43bc-ba72-708d5d7f6ec1" width="300">
 
 ### 10. Ecommerce Project (React + Laravel)
 - [Source Code](https://github.com/tranlehuyhoang/react_laravel)
 - Technologies: React, Laravel, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/61472753-8a39-450d-a664-b8ff329161c1)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/61472753-8a39-450d-a664-b8ff329161c1" width="300">
 
 ### 11. Ecommerce Project (Laravel)
 - [Source Code](https://github.com/tranlehuyhoang/kidolshop)
 - Technologies: Laravel, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/4fa70337-b307-4ff6-8d24-6b6954c66ac8)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/4fa70337-b307-4ff6-8d24-6b6954c66ac8" width="300">
 
 ### 12. Ecommerce Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/shopthoitrang)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/d9d9ea19-1b2a-49e1-a475-4182f76d785a)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/d9d9ea19-1b2a-49e1-a475-4182f76d785a" width="300">
 
 ### 13. PetShop Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/petshop)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/petshop/assets/111523395/db9bb2d7-b6f1-4dc6-89f7-dde1bea4e64b)
+
+<img src="https://github.com/tranlehuyhoang/petshop/assets/111523395/db9bb2d7-b6f1-4dc6-89f7-dde1bea4e64b" width="300">
 
 ### 14. School Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/quanlylophoc)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/64cb99f6-d2a5-4ff4-839a-f9b234790030)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/64cb99f6-d2a5-4ff4-839a-f9b234790030" width="300">
 
 ### 15. Cinema Project (Laravel)
 - [Source Code](https://github.com/tranlehuyhoang/cinema-)
 - Technologies: Laravel, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7c6d864d-8fba-43d3-a59f-33df77f272c1)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/7c6d864d-8fba-43d3-a59f-33df77f272c1" width="300">
 
 ### 16. Runner Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/runner)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/865bab64-38c3-4e6b-b5c0-dd2cc0e71856)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/865bab64-38c3-4e6b-b5c0-dd2cc0e71856" width="300">
 
 ### 17. Clothes Store Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/clother-store)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/d0e1c553-8486-4e73-9630-4fbc2e63b6e0)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/d0e1c553-8486-4e73-9630-4fbc2e63b6e0" width="300">
 
 ### 18. Clonev6 Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/clonev6)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/e0329c4d-704c-494a-8250-73d80466e82b)
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/e0329c4d-704c-494a-8250-73d80466e82b" width="300">
 
 ### 19. Barbershop Appointment Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/barbershop)
 - Technologies: PHP, MySQL
-![Image](https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/2f76cb6f-7759-485e-8eb3-df65fadfdf64)
 
-
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/2f76cb6f-7759-485e-8eb3-df65fadfdf64" width="300">
