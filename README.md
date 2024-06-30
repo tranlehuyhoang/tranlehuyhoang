@@ -128,3 +128,11 @@
 - Technologies: PHP, MySQL
 
 <img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/2f76cb6f-7759-485e-8eb3-df65fadfdf64" width="300">
+
+### 20. Social Network Project (PHP)
+- [Source Code](https://github.com/tranlehuyhoang/chat-app-php)
+- Technologies: PHP, MySQL
+
+<img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/9e2fe852-e96b-4b10-b60b-466036fc9a88" width="300">
+
+
