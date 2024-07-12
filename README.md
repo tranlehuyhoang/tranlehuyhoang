@@ -146,3 +146,9 @@
 - Technologies: React, Nodejs, MySQL
  
 <img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/f32bf267-9baa-49c3-b6fc-1837157a7d6f" width="300">
+
+### 23. Nextjs theme Project (Nextjs)
+- [Source Code](https://github.com/tranlehuyhoang/cydeva.tech)
+- Technologies: Nextjs
+
+<img src="https://github.com/user-attachments/assets/eb9fb467-91c2-45f4-becc-3beb39451c0f" width="300">
