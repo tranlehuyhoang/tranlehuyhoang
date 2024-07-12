@@ -141,7 +141,7 @@
  
 <img src="https://github.com/tranlehuyhoang/tranlehuyhoang/assets/111523395/518a59c3-50ba-4635-b300-86489939d95c" width="300">
 
-### 22. BookingCảe Project (PHP)
+### 22. BookingCare Project (PHP)
 - [Source Code](https://github.com/tranlehuyhoang/BookingCare)
 - Technologies: React, Nodejs, MySQL
  
