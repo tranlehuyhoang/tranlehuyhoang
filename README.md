@@ -157,5 +157,5 @@
 - [Source Code](https://github.com/tranlehuyhoang/lianfa.vn)
 - Technologies: Wordpress
 
-<img src="https://github.com/user-attachments/assets/f015d5b3-bd98-4315-a9ea-71d25d5f521c">
+<img src="https://github.com/user-attachments/assets/f015d5b3-bd98-4315-a9ea-71d25d5f521c"  width="300">
  
